@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:poppi/model/store.dart';
 
+//오준석 연습
 void main() {
   runApp(const MyApp());
 }
