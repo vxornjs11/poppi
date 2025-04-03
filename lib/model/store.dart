@@ -46,4 +46,8 @@ class Store {
     data['created_at'] = this.createdAt;
     return data;
   }
+
+  // where(bool Function(dynamic e) param0) {}
+
+  // data() {}
 }
